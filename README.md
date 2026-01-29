@@ -8,8 +8,7 @@ Una aplicación móvil colaborativa para reportar incidentes viales en tiempo re
 
 | Mapa en Vivo | Reporte de Incidente | Modo Premium |
 |:---:|:---:|:---:|
-| <img src="[URL_IMAGEN_MAPA](https://github.com/user-attachments/assets/cf7f3e40-453c-4cb8-a4c8-0e0c2c10ab63)" width="200"> | <img src="[URL_IMAGEN_REPORTE](https://github.com/user-attachments/assets/e4ed0179-dee6-4f4e-b4ba-23bc92306ecf)" width="200"> | <img src="[URL_IMAGEN_PREMIUM](https://github.com/user-attachments/assets/dc4599b5-8308-4641-bd3f-07487f894545)" width="200"> |
-*(Acá podés subir fotos de tu celu funcionando)*
+| <img src="https://github.com/user-attachments/assets/cf7f3e40-453c-4cb8-a4c8-0e0c2c10ab63" width="200"> | <img src="https://github.com/user-attachments/assets/e4ed0179-dee6-4f4e-b4ba-23bc92306ecf" width="200"> | <img src="https://github.com/user-attachments/assets/dc4599b5-8308-4641-bd3f-07487f894545" width="200"> |
 
 ## ⚡ Características Principales
 
